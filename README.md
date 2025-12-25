@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Financial Analysis Platform - Student Assignment
 
 ## 📋 Project Overview
@@ -750,3 +751,6 @@ This project template is for educational purposes only. Stock market predictions
 ---
 
 **Good luck! 🚀 You're building a real-world data engineering + ML system!**
+=======
+# AI-Powered-Financial-Analysis-Platform
+>>>>>>> 705a66702571fa67647b94cdcc4db0f2e6965a59
