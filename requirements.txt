@@ -1,0 +1,59 @@
+# AI-Powered Financial Analysis Platform - Dependencies
+
+# ========================================
+# Core Data Processing
+# ========================================
+pyspark              # Distributed data processing
+pandas               # Data manipulation
+numpy               # Numerical computing
+
+# ========================================
+# Data Collection
+# ========================================
+yfinance            # Yahoo Finance API for stock data
+requests            # HTTP requests
+beautifulsoup4      # HTML parsing (for 10-K filings)
+lxml                 # XML/HTML parser
+
+# ========================================
+# Machine Learning
+# ========================================
+scikit-learn         # ML algorithms (Random Forest, etc.)
+# Note: Spark MLlib is included with PySpark
+
+# ========================================
+# Data Visualization
+# ========================================
+matplotlib           # Plotting and graph generation
+seaborn             # Statistical visualizations
+plotly              # Interactive charts
+
+# ========================================
+# Web Framework & UI
+# ========================================
+streamlit           # Dashboard and chatbot UI
+streamlit-chat       # Chat components for Streamlit
+
+# ========================================
+# LLM Integration
+# ========================================
+ollama             # Ollama Python client for Llama models
+
+# ========================================
+# Database
+# ========================================
+# sqlite3 is built-in with Python
+sqlalchemy         # SQL toolkit (optional, for ORM)
+
+# ========================================
+# Testing
+# ========================================
+pytest               # Testing framework
+pytest-cov          # Code coverage
+
+# ========================================
+# Development Tools
+# ========================================
+jupyter             # Jupyter notebooks (for exploration)
+black              # Code formatter
+flake8               # Linter
